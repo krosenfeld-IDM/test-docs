@@ -14,6 +14,8 @@ Welcome to test-docs's documentation!
 Indices and tables
 ==================
 
+Update doc content in main branch, merge into docs branch, build in docs, push to docs
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
